@@ -18,15 +18,14 @@ https://www.ip2location.io/
 2. Extract the zip file
 
 #### File structure
-
- 📂 iPClientWeb/
-    📂 htdocs/
-       📂 local/
-       -- .htaccess
-       -- functions.php
-    -- index.php
-    -- iPClientWeb-logo.png
- -- README.md
+    📂 iPClientWeb/
+       📂 htdocs/
+          📂 local/
+          -- .htaccess
+          -- functions.php
+      -- index.php
+      -- iPClientWeb-logo.png
+    -- README.md
 
 3. You may move all files and folders in the htdocs to your server/website public directory or you may configure your server to point to the htdocs folder
 
